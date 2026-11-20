@@ -1,0 +1,15 @@
+ScamShield AI - Project Notes
+
+Purpose:
+Detect potentially fraudulent messages.
+
+Types of scams:
+- Fake prizes and rewards
+- Phishing links
+- Bank account scams
+- OTP theft
+- Fake delivery messages
+
+Our goal:
+Build a machine learning system that analyzes message text
+and identifies suspicious patterns.
